@@ -1,5 +1,10 @@
 # Blog Post Summarizer | Pydantic AI
 
+<img width="951" alt="Screenshot 2025-03-14 at 14 15 05" src="https://github.com/user-attachments/assets/cf54c2e4-2e33-4977-a8eb-177808f721c9" />
+
+<img width="1027" alt="Screenshot 2025-03-14 at 14 15 22" src="https://github.com/user-attachments/assets/c918fc4c-f861-4d56-91d2-dddf96c9731a" />
+
+
 A powerful application that uses AI to automatically summarize blog posts and articles. This tool helps users quickly extract key information from lengthy content, saving time while maintaining comprehension of essential points.
 
 ## Features
