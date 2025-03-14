@@ -1,4 +1,4 @@
-# Blog Post Summarizer
+# Blog Post Summarizer | Pydantic AI
 
 A powerful application that uses AI to automatically summarize blog posts and articles. This tool helps users quickly extract key information from lengthy content, saving time while maintaining comprehension of essential points.
 
@@ -14,8 +14,8 @@ A powerful application that uses AI to automatically summarize blog posts and ar
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/blog-post-summarizer.git
-cd blog-post-summarizer
+git clone https://github.com/pakagronglb/blog-post-pydanticai.git
+cd blog-post-pydanticai
 
 # Create a virtual environment
 python -m venv venv
@@ -90,4 +90,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Pakagrong Lebel - [@pakagronglb](https://twitter.com/pakagronglb) - pakagronglebel@gmail.com
 
-Project Link: [https://github.com/pakagronglb/blog-post-summarizer](https://github.com/pakagronglb/blog-post-summarizer)
+Project Link: [https://github.com/pakagronglb/blog-post-summarizer](https://github.com/pakagronglb/blog-post-pydanticai)
